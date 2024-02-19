@@ -1,0 +1,30 @@
+body{
+    background-color: #000000;
+    font-family: "Oswald", sans-serif;
+}
+
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+* {
+    color: white;
+}
+
+#oppenheimer{
+    background-color: #2D2C2E;
+    height: 209px;
+    text-align: left;
+}
+
+#textcenter{
+    text-align: center;
+}
+
+#blue{
+    color: blue;
+}
